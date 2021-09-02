@@ -1,6 +1,6 @@
 # Emscripten Main Loop Helper Library
 
-[![crates.io](http://meritbadge.herokuapp.com/emscripten_main_loop)](https://crates.io/crates/emscripten_main_loop)
+[![crates.io](https://img.shields.io/crates/v/emscripten_main_loop.svg)](https://crates.io/crates/emscripten_main_loop)
 
 [Documentation](https://docs.rs/emscripten_main_loop)
 
